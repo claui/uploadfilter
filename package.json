@@ -1,0 +1,33 @@
+{
+  "name": "uploadfilter",
+  "version": "0.1.0",
+  "description": "Free, open-source upload filter that aims to help your website comply with EU copyright law",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uploadfilter/uploadfilter.git"
+  },
+  "keywords": [
+    "eu",
+    "copyright",
+    "policy",
+    "directive",
+    "content",
+    "upload",
+    "filter",
+    "protect",
+    "media",
+    "memes",
+    "culture",
+    "community"
+  ],
+  "author": "The uploadfilter authors",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/uploadfilter/uploadfilter/issues"
+  },
+  "homepage": "https://github.com/uploadfilter/uploadfilter#readme"
+}
